@@ -1,0 +1,25 @@
+.cabecalho-moda{
+    background-color: #BB86FC;
+    color: #ffffff;    
+}
+
+.cabecalho-casa{
+    background-color: #00C4B4;
+    color: #ffffff;  
+}
+
+.itens-moda-casa td {
+    background-color: #424250;
+    color: #ffffff;
+    padding: 6px;
+}
+
+table {
+    border-collapse: separate;
+    text-indent: initial;
+    border-spacing: 2px;
+}
+
+th {
+    padding: 4px;
+}
