@@ -1,5 +1,5 @@
 # Desafio - Tabelas Estilizadas
-Um desafio de criação e estilização de tabelas utilizando HTML e CSS;
+Um desafio de criação e estilização de tabelas utilizando HTML e CSS.
 
 ## Regras do desafio
 <img src="./src/img/Screenshot_1.png" alt="Descrição do desafio">
